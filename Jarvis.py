@@ -32,9 +32,10 @@ weather_dict = json.loads(weather)
 
 # For E-Mail IDs
 email_dict = {
-    'hitesh': '19uec023@lnmiit.ac.in',
-    'mohit': '19ucc023@lnmiit.ac.in',
-    'himanshu': '19uec014@lnmiit.ac.in'
+#   Write name of person by which you will call and their E-Mail
+    'Friend1': 'Friend1.email@gmail.com',
+    'Friend2': 'Friend2.email@gmail.com',
+    'Friend3': 'Friend3.email@gmail.com'
 }
 
 
